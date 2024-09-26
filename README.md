@@ -1,3 +1,9 @@
+# Cyber Attack Detection in Connected Autonomous Vehicles using [PINN](https://maziarraissi.github.io/PINNs/)
+
+> **Notice:** This is a fork of "https://maziarraissi.github.io/PINNs/". You are on the detection branch.
+
+We introduce cyber attack detection algorithm in Connected Autonomous Vehicles (CAVs) based on physics informed neural networks. We are referencing the code provided in .  The file "detect.py" contains the code for detecting cyber attacks in the communication channels and local vehicular sensors of a platoon of vehicles operating in Cooperative Adaptive Cruise Control (CACC). The folder "data" contains the data under: no attack scenario, communication attack, and sensor attack. Information about the original repository is below.
+
 # [Physics Informed Neural Networks](https://maziarraissi.github.io/PINNs/)
 
 > **Notice:** This repository is no longer under active maintenance. It is highly recommended to utilize implementations of Physics-Informed Neural Networks (PINNs) available in [PyTorch](https://github.com/rezaakb/pinns-torch), [JAX](https://github.com/rezaakb/pinns-jax), and [TensorFlow v2](https://github.com/rezaakb/pinns-tf2).
